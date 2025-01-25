@@ -1,7 +1,7 @@
 # 🎉 File Sorter 🗂️
 
-<p align="center">
-  <img src="[path/to/your/logo.png](https://github.com/user-attachments/assets/faa560a4-6185-4fc6-a4bc-1ec41cca53d4)" alt="File Sorter Logo" width="200">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/faa560a4-6185-4fc6-a4bc-1ec41cca53d4" alt="File Sorter Logo" width="300">
 </p>
 
 A user-friendly tool to automatically organize your files! This program categorizes files based on their types and places them into designated folders. Say goodbye to the hassle of manual file sorting! 😊
@@ -119,15 +119,15 @@ All operations are logged in a file named `OrganizeMyFiles.log`. Logs include:
 Below are some screenshots of the application in action:
 
 <p align="center">
-  <img src="path/to/screenshot1.png" alt="Main Interface" width="600">
+  <img src="https://github.com/user-attachments/assets/b1759910-559a-4f11-924f-46ae4e393595" alt="Main Interface" width="600">
   <br>
   <i>Figure 1: The main interface of the File Sorter</i>
 </p>
 
 <p align="center">
-  <img src="path/to/screenshot2.png" alt="File Sorting Process" width="600">
+  <img src="https://github.com/user-attachments/assets/4d43aa4d-5d2e-48ad-9b88-cb6da445539e" alt="File Sorting Process" width="600">
   <br>
-  <i>Figure 2: File sorting process in progress</i>
+  <i>Figure 2: File sorting process is ended</i>
 </p>
 
 ---
