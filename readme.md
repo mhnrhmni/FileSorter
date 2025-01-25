@@ -1,7 +1,7 @@
 # 🎉 File Sorter 🗂️
 
 <p align="center">
-  <img src="path/to/your/logo.png" alt="File Sorter Logo" width="200">
+  <img src="[path/to/your/logo.png](https://github.com/user-attachments/assets/faa560a4-6185-4fc6-a4bc-1ec41cca53d4)" alt="File Sorter Logo" width="200">
 </p>
 
 A user-friendly tool to automatically organize your files! This program categorizes files based on their types and places them into designated folders. Say goodbye to the hassle of manual file sorting! 😊
