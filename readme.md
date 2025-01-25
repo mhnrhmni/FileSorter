@@ -57,6 +57,7 @@ A user-friendly tool to automatically organize your files! This program categori
 ✅ **User-Friendly GUI**: Built with `tkinter`, making it easy to use for everyone.  
 ✅ **File Categorization**: Organizes files into categories such as Images, Documents, and Videos.  
 ✅ **Custom Sorting**: Allows sorting by specific file types or all file types at once.  
+✅ **Selectable location**: You can choose the place where you want the sorting to be done  
 ✅ **Multithreading**: Uses concurrent file processing for faster sorting.  
 ✅ **Duplicate Handling**: Prevents overwriting by appending unique identifiers to duplicate filenames.  
 ✅ **Empty Folder Cleanup**: Automatically removes empty folders after sorting.  
